@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Ride 1",
+        "tripID": "201344",
+        "driveName": "Aman",
+        "drivePhoneNumber": "9347235798",
+        "cabNumber": "PB2019X",
+        "location": "Durg Railway Station",
+        "destination": {
+            "latitude" : "21.199875503990775",
+            "longitude" : "81.29108164474306"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ride 2",
+        "tripID": "501314",
+        "driveName": "Naman",
+        "drivePhoneNumber": "9148765090",
+        "cabNumber": "PB1081X",
+        "location": "Shoping Mall",
+        "destination": {
+            "latitude" : "21.199875503990775",
+            "longitude" : "81.29108164474306"
+        }
+    }
+]
